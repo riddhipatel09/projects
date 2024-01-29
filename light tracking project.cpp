@@ -6,8 +6,7 @@ first.
  *Unless you'll get compilation error message.
  *Also remove the yellow jumper cap from motor driver before uploading 
 the sketch.
- *You can contact me here https://www.instagram.com/diy.builder/
- */
+*/
 
 
 
